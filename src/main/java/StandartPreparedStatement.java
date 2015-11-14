@@ -3,7 +3,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by User on 11/10/2015.
+ * Created by Prilepishev Vadim on 11/10/2015.
  */
 public class StandartPreparedStatement {
 

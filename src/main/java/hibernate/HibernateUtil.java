@@ -1,10 +1,7 @@
 package hibernate;
 
 import org.hibernate.SessionFactory;
-import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
-
-import org.hibernate.service.ServiceRegistry;
 
 /**
  * Created by User on 11/11/2015.
