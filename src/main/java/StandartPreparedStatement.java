@@ -4,6 +4,7 @@ import java.sql.SQLException;
 
 /**
  * Created by Prilepishev Vadim on 11/10/2015
+ *
  */
 public class StandartPreparedStatement {
 
