@@ -1,7 +1,7 @@
 package hibernate;
 
 /**
- * Created by Prilepishev Vadim on 11/11/2015.
+ * Created by Prilepishev Vadim on 11/11/2015
  */
 public class Factory {
     public static Factory instance = new Factory();

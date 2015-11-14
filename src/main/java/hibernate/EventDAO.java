@@ -5,7 +5,6 @@ import java.util.List;
 
 /**
  * Created by Prilepishev Vadim on 11/11/2015.
- *
  */
 public interface EventDAO {
      public void addEvent(EventTable eventTable) throws SQLException;

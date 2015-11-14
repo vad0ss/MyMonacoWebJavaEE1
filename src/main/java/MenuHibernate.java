@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Created by Prilepishev Vadim on 11/11/2015.
+ * Created by Prilepishev Vadim on 11/11/2015
  */
 public class MenuHibernate {
 

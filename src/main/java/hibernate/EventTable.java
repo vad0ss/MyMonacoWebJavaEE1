@@ -9,7 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * Created by Prilepishev Vadim on 11/11/2015.
+ * Created by Prilepishev Vadim on 11/11/2015
  */
 
 @DynamicUpdate
